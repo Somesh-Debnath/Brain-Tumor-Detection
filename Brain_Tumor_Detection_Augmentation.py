@@ -236,3 +236,4 @@ for f1 in files:
     classes = np.round(classes)
     data.append(f1)
     result.append(classes)
+    dvv
